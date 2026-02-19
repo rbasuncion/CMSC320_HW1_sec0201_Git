@@ -7,3 +7,9 @@ Answer: In order to keep track of who does what and any changes of code in a gro
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to businesses by analyzing trends in costs and profits to maximize profit.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging keeps track of every branch, including when they diverged and combined, while rebasing applies changes on top of the latest changes regardless of the branch.
+
