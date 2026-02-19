@@ -13,3 +13,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging keeps track of every branch, including when they diverged and combined, while rebasing applies changes on top of the latest changes regardless of the branch.
 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about data science and completing my degree.
